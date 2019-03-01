@@ -1,2 +1,2 @@
-# my_vim_config
+# Cool Vim config
 This is my vim configurations. 
